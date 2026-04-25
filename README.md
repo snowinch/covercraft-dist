@@ -4,9 +4,6 @@ This repository serves as the official distribution channel and update server fo
 
 The source code for the application can be found at: [snowinch/covercraft](https://github.com/snowinch/covercraft).
 
-[![Latest Release](https://img.shields.io/github/v/release/snowinch/covercraft-dist?style=for-the-badge&color=7dd3fc)](https://github.com/snowinch/covercraft-dist/releases/latest)
-[![Platform Support](https://img.shields.io/badge/platform-Windows%20%7C%20macOS-lightgrey?style=for-the-badge)](#)
-
 ---
 
 ## 🚀 Download & Installation
