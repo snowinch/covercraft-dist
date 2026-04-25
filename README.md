@@ -4,7 +4,7 @@ Welcome to the official distribution hub for **CoverCraft**. This repository is 
 
 CoverCraft is a project by **[TypeBeatHouse](https://typebeathouse.com)**, developed and maintained by **[SNOW INCH SL](https://snowinch.com)**.
 
-[![Latest Release](https://img.shields.io/github/v/release/snowinch/covercraft-dist?style=for-the-badge&color=7dd3fc)]([https://github.com/snowinch/covercraft-dist/releases](https://github.com/snowinch/covercraft-dist/releases/latest))
+[![Latest Release](https://img.shields.io/github/v/release/snowinch/covercraft-dist?style=for-the-badge&color=7dd3fc)]([[https://github.com/snowinch/covercraft-dist/releases](https://github.com/snowinch/covercraft-dist/releases/latest)](https://github.com/snowinch/covercraft-dist/releases))
 [![Website](https://img.shields.io/badge/Website-typebeathouse.com-blue?style=for-the-badge)](https://typebeathouse.com)
 
 ---
